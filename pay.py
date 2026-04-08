@@ -22,7 +22,7 @@ from aiogram.exceptions import TelegramBadRequest
 from aiogram.client.default import DefaultBotProperties
 
 # ── Конфигурация ─────────────────────────────────────────────────────────────
-BOT_TOKEN   = '8664269263:AAGBj1U7zfKgyslXNmgJOTVuMbpnh-o_AJE'
+BOT_TOKEN   = '8658628123:AAHIffJR3Vr4HbugXW_kC8y7HRdI8evcFDk'
 OWNERS      = [488616444, 8727416659]
 DB_NAME     = 'bot_database.db'
 PAYOUT_CHAT_ID  = -1003644645918
