@@ -10,7 +10,7 @@ from aiogram.enums import ParseMode
 from aiogram.client.default import DefaultBotProperties
 
 # === НАСТРОЙКИ ===
-BOT_TOKEN = "8664269263:AAGBj1U7zfKgyslXNmgJOTVuMbpnh-o_AJE"
+BOT_TOKEN = "8658628123:AAHIffJR3Vr4HbugXW_kC8y7HRdI8evcFDk"
 ADMIN_IDS = [488616444, 8727416659]
 
 # === ССЫЛКИ НА МАНУАЛЫ ===
